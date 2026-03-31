@@ -23,9 +23,9 @@ portfolio demonstrating my growth and learning.
 
 | Learning Area | Status | Progress | Purpose |
 |---------------|--------|----------|---------|
-| **[OverTheWire Challenges](./overthewire-challenges/)** | 🟢 Active | Bandit Game | Community CTF games for practical learning |
+| **[OverTheWire Challenges](./overthewire-challenges/)** | 🟢 Completed | Bandit Game | Community CTF games for practical learning |
 
-**Overall Progress:** 0% Complete ✅
+**Overall Progress:** 100% Complete ✅
 
 ---
 
@@ -35,7 +35,7 @@ portfolio demonstrating my growth and learning.
 Community-driven security wargames:
 - **Bandit** (34 levels) - Linux command line basics
 
-**Status:** 🟢 Active (0/34 levels complete)
+**Status:** 🟢 Completed (34/34 levels complete)
 
 ---
 
@@ -82,7 +82,7 @@ I believe in learning through:
 
 ## 💬 About Me
 
-- **Education:** Bachelor's degree in System Information
+- **Education:** Bachelor's degree in System Information (in progress)
 - **Passion:** Cybersecurity (especially offensive security)
 - **Goal:** Become expert penetration tester
 - **Philosophy:** Security through understanding
@@ -92,5 +92,5 @@ I believe in learning through:
 
 **Learning Security. Building Expertise. Creating Impact.** 🔒
 
-**Status:** 🟢 Actively Maintained | Last Updated: December 14, 2025
+**Status:** 🟢 Actively Maintained | Last Updated: March 31st, 2026
 
